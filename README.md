@@ -46,7 +46,7 @@ This list will help you get all the Zoho Applications which are open to Third Pa
 
 ## Business Intelligence
 
- - Zoho Analytics : https://www.zoho.com/analytics/api/
+ - Zoho Analytics : https://www.zoho.com/analytics/api/v2/#Introduction
 
 ## Custom Solutions
 
